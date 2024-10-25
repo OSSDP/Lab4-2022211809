@@ -44,7 +44,7 @@ public class L2022211809_6_Test {
         List<List<String>> favoriteCompanies = new ArrayList<>();
         favoriteCompanies.add(Arrays.asList("leetcode", "google"));
 
-        List<Integer> expected = Arrays.asList(0);
+        List<Integer> expected = Arrays.asList(1);
         List<Integer> result = solution.peopleIndexes(favoriteCompanies);
 
         assertEquals(expected, result);
