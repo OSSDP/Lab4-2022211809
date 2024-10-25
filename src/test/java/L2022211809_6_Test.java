@@ -26,7 +26,7 @@ public class L2022211809_6_Test {
     public void testNormalInput() {
         Solution6 solution = new Solution6();
         List<List<String>> favoriteCompanies = new ArrayList<>();
-        favoriteCompanies.add(Arrays.asList("leetcode", "google", "facebook"));
+        favoriteCompanies.add(Arrays.asList("leetco1231de", "google", "facebook"));
         favoriteCompanies.add(Arrays.asList("google", "microsoft"));
         favoriteCompanies.add(Arrays.asList("google", "facebook"));
         favoriteCompanies.add(Arrays.asList("google"));
